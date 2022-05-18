@@ -1,2 +1,2 @@
 # Paralax-Clarusway
-[click here!](https://ahmetaric.github.io/background-image/)
+[click here!](https://ahmetaric.github.io/Paralax-Clarusway/)
